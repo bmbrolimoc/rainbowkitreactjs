@@ -1,2 +1,2 @@
-# rainbowkitreactjs
-Created with CodeSandbox
+# IMPORTANT
+PREPARE NODE_MODULES, YOU CAN FIND IT IN RAINBOWKIT WEB.
